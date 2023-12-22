@@ -3,9 +3,7 @@ logo: "/images/icon.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   My GitHub is a fusion of Civil Engineering and Data Science concepts. I'm currently exploring how Building Information Modelling and Geospatial Analysis can be used to enhance the processes of infrastructure design, construction and management
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/emmanuel-ochieng199/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
