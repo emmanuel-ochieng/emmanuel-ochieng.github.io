@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](/wealth_edu)
+- [Wealth Education Comparison in Canada](/wealth_edu)
 - [Project 2 Title](/housing)
 - [Project 3 Title](/)
 - [Project 4 Title](/)
